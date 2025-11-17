@@ -2,7 +2,7 @@
 A modern Next.js 14 application that shows real-time weather data and recommends what clothes to wear based on temperature, wind, rain, and snow conditions.
 
 ## 🚀 Features
-- Built with Next.js 14 (App Router)
+- Built with Next.js 16 (App Router)
 - Modern 3D UI using Tailwind CSS, Framer Motion & Three.js
 - Real-time weather from OpenWeatherMap API
 - Smart clothing recommendations based on:
@@ -20,7 +20,7 @@ The app analyzes the weather and suggests:
 - Extra advice for rain, snow, wind, or sun exposure
 
 ## 🛠️ Tech Stack
-- Next.js 14
+- Next.js 16
 - Tailwind CSS
 - Framer Motion
 - Three.js
