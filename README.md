@@ -1,5 +1,5 @@
 # Weather & Outfit Advisor 👕🌤️  
-A modern Next.js 14 application that shows real-time weather data and recommends what clothes to wear based on temperature, wind, rain, and snow conditions.
+A modern Next.js 16 application that shows real-time weather data and recommends what clothes to wear based on temperature, wind, rain, and snow conditions.
 
 ## 🚀 Features
 - Built with Next.js 16 (App Router)
